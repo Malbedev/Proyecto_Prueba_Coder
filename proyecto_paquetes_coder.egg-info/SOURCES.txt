@@ -1,0 +1,8 @@
+setup.py
+proyecto_paquetes_coder/Primera_entrega.py
+proyecto_paquetes_coder/Segunda_Entrega.py
+proyecto_paquetes_coder/__init__.py
+proyecto_paquetes_coder.egg-info/PKG-INFO
+proyecto_paquetes_coder.egg-info/SOURCES.txt
+proyecto_paquetes_coder.egg-info/dependency_links.txt
+proyecto_paquetes_coder.egg-info/top_level.txt
